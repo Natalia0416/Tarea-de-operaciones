@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KotlinAndroid</string>
+    <string name="txt1">Numero 1</string>
+    <string name="txt2">Numero 2</string>
+    <string name="txt3">Resultado es:</string>
+    <string name="txTitulo">Operaciones</string>
+    <string name="btnSuma">Suma</string>
+    <string name="btnResta">Resta</string>
+    <string name="btnMultiplicacion">Multiplicacion</string>
+    <string name="btnDivision">Division</string>
+    <string name="tex1">Uso Radio Buton</string>
+    <string name="tex2">Numero 1</string>
+    <string name="radio1">Seno</string>
+    <string name="radio2">Coseno</string>
+    <string name="radio3">Raiz</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnVolver">Volver</string>
+    <string name="btnSigue">Siguiente</string>
+
+
+
+</resources>
